@@ -1,0 +1,4 @@
+Football Penalties App (VR):
+The player has to kick the ball into the goal to get a point. There will be moving objects in the way that will make it harder for the player to score. Every time the player misses, their score goes back to 0. The player ha sto try and get the highest score they can.
+
+I will make this using a gltf model for the ball, the goal and the obstacles. Whenever the player clicks the spacebar, the ball will be given velocity in the direction the camera is facing. If the ball touches the goal, the value in the score variable will go up by 1. If it doesn't touch the goal after 10 seconds, the score will go back to 0 and the game over popup will show up. The score that the plaer has will be displayed with text.
